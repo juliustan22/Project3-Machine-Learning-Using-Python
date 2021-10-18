@@ -1,0 +1,13 @@
+# Project 3 Objectives
+- Build and evaluate classification machine learning models to predict customer churn / turnover
+  - Logistic Regression model
+  - Random Forest Classifier model
+- Apply model evaluation techniques from technical and business perspectives
+  - Technical metrics:
+    - Precision
+    - Recall
+    - AUC
+    - GINI
+  - Business metrics:
+    - Gain chart
+    - Lift chart
